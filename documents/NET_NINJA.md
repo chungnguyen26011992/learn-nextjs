@@ -1,6 +1,7 @@
 - [Document](#document)
 - [What is Nextjs](#what-is-nextjs)
   - [SSG & SSR Benefits](#ssg--ssr-benefits)
+- [Next.js Tutorial #2 - Pages & Routes](#nextjs-tutorial-2---pages--routes)
 - [Viewing](#viewing)
   
 # Document
@@ -16,5 +17,9 @@ Nextjs it's a react framework that allows us to create pre-rendered react websit
 - Pre-rendering improves performance
 - Better Search Engine Optimization (SEO)
 
+# Next.js Tutorial #2 - Pages & Routes
+https://www.youtube.com/watch?v=zktJ8-k0JDc&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=2
+
+
 # Viewing
-6:40 https://www.youtube.com/watch?v=A63UxsQsEbU&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw
+1:46 https://www.youtube.com/watch?v=zktJ8-k0JDc&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=2
