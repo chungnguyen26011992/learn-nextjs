@@ -3,6 +3,7 @@
   - [SSG & SSR Benefits](#ssg--ssr-benefits)
 - [Next.js Tutorial #2 - Pages & Routes](#nextjs-tutorial-2---pages--routes)
 - [Next.js Tutorial #3 - Adding Other Components](#nextjs-tutorial-3---adding-other-components)
+- [Next.js Tutorial #4 - Linking Between Pages](#nextjs-tutorial-4---linking-between-pages)
 - [Viewing](#viewing)
   
 # Document
@@ -24,5 +25,8 @@ https://www.youtube.com/watch?v=zktJ8-k0JDc&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8
 # Next.js Tutorial #3 - Adding Other Components
 https://www.youtube.com/watch?v=MJT_WXdSPjE&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=3
 
+# Next.js Tutorial #4 - Linking Between Pages
+https://www.youtube.com/watch?v=u8vaAc3ivcY&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=4
+
 # Viewing
-https://www.youtube.com/watch?v=MJT_WXdSPjE&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=3
+https://www.youtube.com/watch?v=u8vaAc3ivcY&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=4
