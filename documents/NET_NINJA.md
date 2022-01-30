@@ -4,6 +4,7 @@
 - [Next.js Tutorial #2 - Pages & Routes](#nextjs-tutorial-2---pages--routes)
 - [Next.js Tutorial #3 - Adding Other Components](#nextjs-tutorial-3---adding-other-components)
 - [Next.js Tutorial #4 - Linking Between Pages](#nextjs-tutorial-4---linking-between-pages)
+- [Next.js Tutorial #5 - Creating a Layout Component](#nextjs-tutorial-5---creating-a-layout-component)
 - [Viewing](#viewing)
   
 # Document
@@ -28,5 +29,8 @@ https://www.youtube.com/watch?v=MJT_WXdSPjE&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8
 # Next.js Tutorial #4 - Linking Between Pages
 https://www.youtube.com/watch?v=u8vaAc3ivcY&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=4
 
+# Next.js Tutorial #5 - Creating a Layout Component
+https://www.youtube.com/watch?v=DGn25s42NvQ&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=5
+
 # Viewing
-https://www.youtube.com/watch?v=u8vaAc3ivcY&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=4
+1:35 https://www.youtube.com/watch?v=DGn25s42NvQ&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=5
