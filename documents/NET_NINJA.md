@@ -2,6 +2,7 @@
 - [What is Nextjs](#what-is-nextjs)
   - [SSG & SSR Benefits](#ssg--ssr-benefits)
 - [Next.js Tutorial #2 - Pages & Routes](#nextjs-tutorial-2---pages--routes)
+- [Next.js Tutorial #3 - Adding Other Components](#nextjs-tutorial-3---adding-other-components)
 - [Viewing](#viewing)
   
 # Document
@@ -20,6 +21,8 @@ Nextjs it's a react framework that allows us to create pre-rendered react websit
 # Next.js Tutorial #2 - Pages & Routes
 https://www.youtube.com/watch?v=zktJ8-k0JDc&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=2
 
+# Next.js Tutorial #3 - Adding Other Components
+https://www.youtube.com/watch?v=MJT_WXdSPjE&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=3
 
 # Viewing
-1:46 https://www.youtube.com/watch?v=zktJ8-k0JDc&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=2
+https://www.youtube.com/watch?v=MJT_WXdSPjE&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=3
