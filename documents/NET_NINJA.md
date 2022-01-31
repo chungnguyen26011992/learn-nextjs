@@ -7,6 +7,7 @@
 - [Next.js Tutorial #4 - Linking Between Pages](#nextjs-tutorial-4---linking-between-pages)
 - [Next.js Tutorial #5 - Creating a Layout Component](#nextjs-tutorial-5---creating-a-layout-component)
 - [Next.js Tutorial #6 - Adding Styles](#nextjs-tutorial-6---adding-styles)
+- [Next.js Tutorial #7 - Custom 404 Page](#nextjs-tutorial-7---custom-404-page)
 - [Viewing](#viewing)
   
 # Document
@@ -46,5 +47,8 @@ css global has format name `{name}.css`. css module has format name `{name}.modu
 
 ![global css](../images_document/global-css-error.png)
 
+# Next.js Tutorial #7 - Custom 404 Page
+https://www.youtube.com/watch?v=dlee0ESZvlc&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=7
+
 # Viewing
-7:54 https://www.youtube.com/watch?v=qKwnlTVAGnA&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=6
+https://www.youtube.com/watch?v=dlee0ESZvlc&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=7
