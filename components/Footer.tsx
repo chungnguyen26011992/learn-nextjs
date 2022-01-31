@@ -1,11 +1,7 @@
-import type { NextPage } from 'next'
+import type { NextPage } from "next";
 
 const Footer: NextPage = () => {
-  return (
-    <div>
-        Copyright 2022 Chung Template
-    </div>
-  )
-}
+  return <footer>Copyright 2022 Chung Template</footer>;
+};
 
-export default Footer
+export default Footer;

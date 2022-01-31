@@ -1,14 +1,19 @@
 - [Document](#document)
+- [Git Repository](#git-repository)
 - [What is Nextjs](#what-is-nextjs)
   - [SSG & SSR Benefits](#ssg--ssr-benefits)
 - [Next.js Tutorial #2 - Pages & Routes](#nextjs-tutorial-2---pages--routes)
 - [Next.js Tutorial #3 - Adding Other Components](#nextjs-tutorial-3---adding-other-components)
 - [Next.js Tutorial #4 - Linking Between Pages](#nextjs-tutorial-4---linking-between-pages)
 - [Next.js Tutorial #5 - Creating a Layout Component](#nextjs-tutorial-5---creating-a-layout-component)
+- [Next.js Tutorial #6 - Adding Styles](#nextjs-tutorial-6---adding-styles)
 - [Viewing](#viewing)
   
 # Document
 https://www.youtube.com/watch?v=A63UxsQsEbU&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw
+
+# Git Repository
+https://github.com/iamshaunjp/nextjs-tutorial
 
 # What is Nextjs
 - Framework for creating pre-rendered React websites
@@ -32,5 +37,14 @@ https://www.youtube.com/watch?v=u8vaAc3ivcY&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8
 # Next.js Tutorial #5 - Creating a Layout Component
 https://www.youtube.com/watch?v=DGn25s42NvQ&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=5
 
+# Next.js Tutorial #6 - Adding Styles
+https://www.youtube.com/watch?v=qKwnlTVAGnA&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=6
+
+css folder is located at `styles`.
+
+css global has format name `{name}.css`. css module has format name `{name}.module.css`. Css global only imported at `_app.tsx` file, if not will throw error like this
+
+![global css](../images_document/global-css-error.png)
+
 # Viewing
-1:35 https://www.youtube.com/watch?v=DGn25s42NvQ&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=5
+7:54 https://www.youtube.com/watch?v=qKwnlTVAGnA&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=6
