@@ -8,6 +8,7 @@
 - [Next.js Tutorial #5 - Creating a Layout Component](#nextjs-tutorial-5---creating-a-layout-component)
 - [Next.js Tutorial #6 - Adding Styles](#nextjs-tutorial-6---adding-styles)
 - [Next.js Tutorial #7 - Custom 404 Page](#nextjs-tutorial-7---custom-404-page)
+- [Next.js Tutorial #8 - Redirecting Users](#nextjs-tutorial-8---redirecting-users)
 - [Viewing](#viewing)
   
 # Document
@@ -50,5 +51,8 @@ css global has format name `{name}.css`. css module has format name `{name}.modu
 # Next.js Tutorial #7 - Custom 404 Page
 https://www.youtube.com/watch?v=dlee0ESZvlc&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=7
 
+# Next.js Tutorial #8 - Redirecting Users
+https://www.youtube.com/watch?v=O3yKwz4wRHc&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=8
+
 # Viewing
-https://www.youtube.com/watch?v=dlee0ESZvlc&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=7
+https://www.youtube.com/watch?v=O3yKwz4wRHc&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=8
