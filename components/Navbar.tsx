@@ -1,11 +1,17 @@
 import type { NextPage } from 'next'
+import Image from 'next/image'
 import Link from 'next/link'
 
 const Navbar: NextPage = () => {
   return (
     <nav>
         <div className="logo">
-            <h1>Ninja List</h1>
+            <Image
+              src="/logo.png"
+              alt="Logo"
+              width={128}
+              height={77}
+            />
         </div>
         <Link href="/"><a>Home</a></Link>
         <Link href="/about"><a>About</a></Link>

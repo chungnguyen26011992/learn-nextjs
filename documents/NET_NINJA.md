@@ -9,6 +9,7 @@
 - [Next.js Tutorial #6 - Adding Styles](#nextjs-tutorial-6---adding-styles)
 - [Next.js Tutorial #7 - Custom 404 Page](#nextjs-tutorial-7---custom-404-page)
 - [Next.js Tutorial #8 - Redirecting Users](#nextjs-tutorial-8---redirecting-users)
+- [Next.js Tutorial #9 - Images & Metadata](#nextjs-tutorial-9---images--metadata)
 - [Viewing](#viewing)
   
 # Document
@@ -54,5 +55,8 @@ https://www.youtube.com/watch?v=dlee0ESZvlc&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8
 # Next.js Tutorial #8 - Redirecting Users
 https://www.youtube.com/watch?v=O3yKwz4wRHc&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=8
 
+# Next.js Tutorial #9 - Images & Metadata
+https://www.youtube.com/watch?v=rHncMH1CfCU&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=9
+
 # Viewing
-https://www.youtube.com/watch?v=O3yKwz4wRHc&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=8
+https://www.youtube.com/watch?v=rHncMH1CfCU&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=9
