@@ -15,11 +15,11 @@
     - [Summary](#summary)
   - [Data Fetching](#data-fetching)
     - [getServerSideProps](#getserversideprops)
-  - [](#)
 
 # Document
-https://nextjs.org/docs
-https://www.youtube.com/watch?v=A63UxsQsEbU&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw 
+- https://nextjs.org/docs
+- https://www.youtube.com/watch?v=A63UxsQsEbU&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw 
+- Read documents/NET_NINJA.md
 
 # Getting Started
 So far, we get:
@@ -253,5 +253,3 @@ Data fetching in Next.js allows you to render your content in different ways, de
 
 ### getServerSideProps
 <!-- Reading -->
-
-## 

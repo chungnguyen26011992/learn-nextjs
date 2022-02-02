@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import styles from '../../styles/Ninjas.module.css';
 
 /**
@@ -23,11 +24,11 @@ const Ninjas = ({ ninjas }) => {
       <h1>All ninjas</h1>
       {/* This template will be render on server and generates static HTML, so cannot see call api on network tab at browser */}
       {ninjas.map((ninja) => (
-        <div key={ninja.id}>
+        <Link href={'/ninjas/' + ninja.id} key={ninja.id}>
           <a className={styles.single}>
             <h3>{ninja.name}</h3>
           </a>
-        </div>
+        </Link>
       ))}
     </div>
   );
