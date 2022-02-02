@@ -10,6 +10,7 @@
 - [Next.js Tutorial #7 - Custom 404 Page](#nextjs-tutorial-7---custom-404-page)
 - [Next.js Tutorial #8 - Redirecting Users](#nextjs-tutorial-8---redirecting-users)
 - [Next.js Tutorial #9 - Images & Metadata](#nextjs-tutorial-9---images--metadata)
+- [Next.js Tutorial #10 - Fetching Data (getStaticProps)](#nextjs-tutorial-10---fetching-data-getstaticprops)
 - [Viewing](#viewing)
   
 # Document
@@ -58,5 +59,8 @@ https://www.youtube.com/watch?v=O3yKwz4wRHc&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8
 # Next.js Tutorial #9 - Images & Metadata
 https://www.youtube.com/watch?v=rHncMH1CfCU&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=9
 
+# Next.js Tutorial #10 - Fetching Data (getStaticProps)
+https://www.youtube.com/watch?v=zueyEdRZQlk&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=10
+
 # Viewing
-https://www.youtube.com/watch?v=rHncMH1CfCU&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=9
+7:00 https://www.youtube.com/watch?v=zueyEdRZQlk&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=10
