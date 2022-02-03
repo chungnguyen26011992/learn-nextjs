@@ -5,7 +5,8 @@ import styles from '../../styles/Ninjas.module.css';
  * This function run at build time as our app is built and our components rendered at this point we can add a fetch request inside it to fetch any data we need for our component template
  * This function never run in the browser only at build time so don't write any code here that you expect to run in the browser
  */
-export const getServerSideProps = async (context) => {
+// export const getServerSideProps = async (context) => {
+export const getStaticProps = async (context) => {
   const res = await fetch("https://jsonplaceholder.typicode.com/users");
   const data = await res.json();
 

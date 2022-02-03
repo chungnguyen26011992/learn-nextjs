@@ -13,6 +13,7 @@
 - [Next.js Tutorial #10 - Fetching Data (getStaticProps)](#nextjs-tutorial-10---fetching-data-getstaticprops)
 - [Next.js Tutorial #11 - Dynamic Routes (part 1)](#nextjs-tutorial-11---dynamic-routes-part-1)
   - [What nextjs working with static site generation](#what-nextjs-working-with-static-site-generation)
+- [Next.js Tutorial #12 - Dynamic Routes (part 2 - getStaticPaths)](#nextjs-tutorial-12---dynamic-routes-part-2---getstaticpaths)
 - [Viewing](#viewing)
   
 # Document
@@ -72,5 +73,8 @@ https://www.youtube.com/watch?v=WPdJaBFquNc&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8
 
 Once we've completed developing our application next is going to generate a static site for us based on all of our page components and it's at this point that next renders all of our page components into html files and javascript bundles that go with them for any interactivity on those pages so now we have a load of pages ready to deploy to the web a static site containing just these html pages and javascript so it's going to generate in our case at the minute an index homepage and about page and also the ninjas homepage as well so when it comes to building our ninja details pages it's going to need to generate an html file for each item of data that we have in our case that will be 10 different pages which is how many items we get back from the api endpoint that we're using so it could be this one for forward slash ninjas, `ninjas/1.html`, `ninjas/2.html`, `etc`. The template and the component that we use will be the same for each one of these pages so we don't need to make multiple components for them but next still needs to pre-render a separate page for every single ninja and assign each one its own route so we'll see that in action later on but first of all let's create the ninja details components that these pages are going to be based on so i'm going to make that details component inside the ninjas folder
 
+# Next.js Tutorial #12 - Dynamic Routes (part 2 - getStaticPaths)
+https://www.youtube.com/watch?v=mAHqpdVzJmA&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=12
+
 # Viewing
-2:24 https://www.youtube.com/watch?v=WPdJaBFquNc&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=11
+2:25 https://www.youtube.com/watch?v=mAHqpdVzJmA&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=12

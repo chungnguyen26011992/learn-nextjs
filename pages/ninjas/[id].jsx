@@ -1,12 +1,21 @@
-import Head from "next/head";
+export const getStaticPaths = async () => {
+  const res = await fetch("https://jsonplaceholder.typicode.com/users");
+  const data = await res.json();
+  const paths = data.map(ninja => {
+    return {
+      params: { id: ninja.id.toString()}
+    }
+  })
+
+  return {
+    paths,
+    fallback: false
+  }
+}
 
 const Detail = () => {
   return (
     <>
-      <Head>
-        <title>Ninja List | Detail</title>
-        <meta name="keywords" content="ninjas" />
-      </Head>
       <div>
         <h1>Detail page</h1>
       </div>
