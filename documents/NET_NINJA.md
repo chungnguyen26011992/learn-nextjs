@@ -14,6 +14,7 @@
 - [Next.js Tutorial #11 - Dynamic Routes (part 1)](#nextjs-tutorial-11---dynamic-routes-part-1)
   - [What nextjs working with static site generation](#what-nextjs-working-with-static-site-generation)
 - [Next.js Tutorial #12 - Dynamic Routes (part 2 - getStaticPaths)](#nextjs-tutorial-12---dynamic-routes-part-2---getstaticpaths)
+- [Next.js Tutorial #13 - Fetching a Single Item](#nextjs-tutorial-13---fetching-a-single-item)
 - [Viewing](#viewing)
   
 # Document
@@ -76,5 +77,8 @@ Once we've completed developing our application next is going to generate a stat
 # Next.js Tutorial #12 - Dynamic Routes (part 2 - getStaticPaths)
 https://www.youtube.com/watch?v=mAHqpdVzJmA&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=12
 
+# Next.js Tutorial #13 - Fetching a Single Item
+https://www.youtube.com/watch?v=2zRHlqc0_yw&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=13
+
 # Viewing
-2:25 https://www.youtube.com/watch?v=mAHqpdVzJmA&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=12
+https://www.youtube.com/watch?v=2zRHlqc0_yw&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=13
