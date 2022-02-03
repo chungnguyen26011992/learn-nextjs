@@ -15,6 +15,7 @@
   - [What nextjs working with static site generation](#what-nextjs-working-with-static-site-generation)
 - [Next.js Tutorial #12 - Dynamic Routes (part 2 - getStaticPaths)](#nextjs-tutorial-12---dynamic-routes-part-2---getstaticpaths)
 - [Next.js Tutorial #13 - Fetching a Single Item](#nextjs-tutorial-13---fetching-a-single-item)
+- [Next.js Tutorial #14 - Deploying to Vercel](#nextjs-tutorial-14---deploying-to-vercel)
 - [Viewing](#viewing)
   
 # Document
@@ -80,5 +81,8 @@ https://www.youtube.com/watch?v=mAHqpdVzJmA&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8
 # Next.js Tutorial #13 - Fetching a Single Item
 https://www.youtube.com/watch?v=2zRHlqc0_yw&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=13
 
+# Next.js Tutorial #14 - Deploying to Vercel
+https://www.youtube.com/watch?v=_8wkKL0LKks&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=14
+
 # Viewing
-https://www.youtube.com/watch?v=2zRHlqc0_yw&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=13
+https://www.youtube.com/watch?v=_8wkKL0LKks&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=14
